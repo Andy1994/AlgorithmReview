@@ -1,5 +1,9 @@
 # AlgorithmReview
 
+## 文章收藏
+* [探究 UIViewController 生命周期](https://github.com/Andy1994/AlgorithmReview/issues/1)
+* [深入浅出 GCD 之 dispatch_semaphore](https://github.com/Andy1994/AlgorithmReview/issues/3)
+
 ## * 链表
 ### 1.单链表反转 
 ```
